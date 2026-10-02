@@ -1,19 +1,25 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+AM+Supreeta+👋;Flutter+%26+Mobile+App+Developer;AI+%26+ML+Engineering+Student" alt="Typing Indicator" />
+
+# Hi, I'm AM Supreeta 👋
+### Software Developer Intern @ Gem Ventures
+**Crafting clean, modular cross-platform applications & robust backend integrations**
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="mailto:amsupreeta25@gmail.com">
+    <img src="https://img.shields.io/badge/Direct_Dispatch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <p align="center">
-    <strong>Software Developer Intern @ Gem Ventures</strong> • Crafting clean, scalable, cross-platform apps
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:amsupreeta25@gmail.com"><img src="https://img.shields.io/badge/Direct_Dispatch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Dispatch" /></a>
-  </p>
 </div>
-</div>
+```[cite: 1]
 
+This eliminates the broken external SVG server dependency completely, keeps your verified tech badges intact, and centers your headline and buttons properly[cite: 9].
 ---
 
 ### 💻 Developer Snapshot
