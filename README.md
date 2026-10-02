@@ -17,10 +17,6 @@
 </p>
 
 </div>
-```[cite: 1]
-
-This eliminates the broken external SVG server dependency completely, keeps your verified tech badges intact, and centers your headline and buttons properly[cite: 9].
----
 
 ### 💻 Developer Snapshot
 
