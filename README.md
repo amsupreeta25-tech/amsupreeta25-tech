@@ -51,11 +51,28 @@ final me = Developer(
 ---
 
 ### 🚀 Production & Institutional Deployments
+
+```text
+├── 📱 GM Hostel App ────────────── Full-cycle role-based automation (Students / Wardens / Admins)
+│   ├── Architecture: Flutter + Firebase Auth + RESTful PHP/MySQL
+│   └── Highlights: Real-time digital gate passes, automated grievance processing & local caching
+│
+├── 🔗 GMU Connect ──────────────── Cross-platform campus productivity & resource hub
+│   ├── Architecture: Modular Flutter UI + Automated Notification Workflows
+│   └── Highlights: Real-time Library OPAC search integration & structured appointment pipelines
+│
+└── 🌐 Institutional Portals ────── High-throughput responsive web architecture
+    ├── Core Focus: Streamlined asset delivery & layout performance
+    └── Milestone: 2nd Place SPARK Web Development Event
+```
+
+---
+
 ### 📈 Contribution Telemetry
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amsupreeta25-tech&show_icons=true&theme=nord&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsupreeta25-tech&layout=compact&theme=nord&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amsupreeta25-tech&layout=compact&theme=nord&hide_border=true&count_private=true" height="150" />
 </div>
 
 <p align="center">
@@ -65,4 +82,6 @@ final me = Developer(
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amsupreeta25-tech&style=flat-square&color=007acc&label=Profile+Telemetric+Views" alt="Profile View Counter" />
 </p>
-```
+````[cite: 1]
+
+Make sure there are **no extra backticks (` ``` `)** below the final `</p>` tag when you save.
