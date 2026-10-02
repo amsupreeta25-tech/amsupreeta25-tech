@@ -1,16 +1,17 @@
 <div align="center">
-  <!-- Dynamic Gradient Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=180&section=header&text=A%20M%20SUPREETA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%26%20Cross-Platform%20Systems&descAlignY=60&descAlign=50" width="100%" />
-
-  <!-- Animated Terminal Typing Subheading -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Building+responsive%2C+modular+mobile+ecosystems.;Integrating+RESTful+APIs+with+Firebase+%26+relational+backends.;Undergraduate+in+Artificial+Intelligence+%26+Machine+Learning." alt="Typing Indicator" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Hi%2C+I'm+AM+Supreeta+👋;Flutter+%26+Mobile+App+Developer;AI+%26+ML+Engineering+Student" alt="Typing Indicator" />
   </a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:amsupreeta25@gmail.com"><img src="https://img.shields.io/badge/Direct_Dispatch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <strong>Software Developer Intern @ Gem Ventures</strong> • Crafting clean, scalable, cross-platform apps
   </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:amsupreeta25@gmail.com"><img src="https://img.shields.io/badge/Direct_Dispatch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Dispatch" /></a>
+  </p>
+</div>
 </div>
 
 ---
