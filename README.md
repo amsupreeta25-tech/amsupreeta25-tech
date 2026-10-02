@@ -1,40 +1,53 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+AM+Supreeta+👋;Flutter+%26+Mobile+App+Developer;AI+%26+ML+Engineering+Student" alt="Typing SVG" />
+  <!-- Dynamic Gradient Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9&height=180&section=header&text=A%20M%20SUPREETA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Flutter%20%26%20Cross-Platform%20Systems&descAlignY=60&descAlign=50" width="100%" />
+
+  <!-- Animated Terminal Typing Subheading -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Building+responsive%2C+modular+mobile+ecosystems.;Integrating+RESTful+APIs+with+Firebase+%26+relational+backends.;Undergraduate+in+Artificial+Intelligence+%26+Machine+Learning." alt="Typing Indicator" />
+  </a>
 
   <p align="center">
-    <strong>Software Developer Intern @ Gem Ventures</strong> • Crafting clean, scalable, cross-platform apps
-  </p>
-
-  <p align="center">
-    <a href="mailto:amsupreeta25@gmail.com"><img src="https://img.shields.io/badge/Email-amsupreeta25%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <img src="https://img.shields.io/badge/Location-Davangere%2C%20India-555555?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:amsupreeta25@gmail.com"><img src="https://img.shields.io/badge/Direct_Dispatch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 💻 Technologies & Tools
+### 💻 Developer Snapshot
 
-| Domain | Stack |
+```dart
+import 'package:developer/profile.dart';
+
+final me = Developer(
+  name: 'AM Supreeta',
+  focus: [Domain.mobileAppArchitecture, Domain.crossPlatformEngineering],
+  primaryStack: {Framework.flutter, Language.dart, Cloud.firebase, Engine.supabase},
+  coreCompetencies: [
+    'Modular Clean Architecture',
+    'Reactive State Management & Caching',
+    'Role-Based Access Control (RBAC)',
+    'Sub-Second UI & Performance Optimization'
+  ],
+  currentlyOperatingAt: 'Gem Ventures (Software Developer Intern)',
+);
+```
+---
+
+### 🛠️ Interactive Tech Stack Matrix
+
+<div align="center">
+
+| Layer | Technologies & Infrastructure |
 | :--- | :--- |
-| **Mobile & Frontend** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> |
-| **Backend & Cloud** | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |
-| **Programming** | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" /> |
-| **Tools & Workflows** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> |
+| **Mobile & Interfaces** | <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css" /> |
+| **Data & Cloud Services** | <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,php" /> |
+| **Systems & Languages** | <img src="https://skillicons.dev/icons?i=java,cpp,c" /> |
+| **Tooling & Environments** | <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" /> |
+
+</div>
 
 ---
 
-### 🚀 Highlighted Work
-
-```dart
-class Developer {
-  final String name = 'AM Supreeta';
-  final String role = 'Software Developer Intern @ Gem Ventures';
-  final List<String> focusAreas = [
-    'Cross-Platform Mobile Apps (Flutter)',
-    'RESTful APIs & Microservices Integration',
-    'Reactive State Management & Caching',
-    'Role-Based Dashboards & RBAC'
-  ];
-}
+### 🚀 Production & Institutional Deployments
