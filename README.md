@@ -65,6 +65,4 @@ final me = Developer(
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amsupreeta25-tech&style=flat-square&color=007acc&label=Profile+Telemetric+Views" alt="Profile View Counter" />
 </p>
-```[cite: 1]
-
-*(Remember to replace `YOUR_GITHUB_USERNAME` in the stats links with your actual GitHub username before committing.)*
+```
